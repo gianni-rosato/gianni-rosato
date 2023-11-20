@@ -8,7 +8,7 @@ I am a student & open source software enthusiast who enjoys anything codec-relat
 Some of my current projects, hobbies, & interests:
 
 - 📹 **[Aviator](https://wiki.x266.mov/docs/utilities/Aviator)** - A GUI for the fast & paralellizable SVT-AV1 AV1 encoder
-- 🎥 **[rAV1ator](https://wiki.x266.mov/docs/utilities/rAV1ator)** - A GUI for encoding videos with safe & fast rav1e AV1 encoder
+- 🎥 **[rAV1ator](https://wiki.x266.mov/docs/utilities/rAV1ator)** - A GUI for encoding videos with the safe & fast rav1e AV1 encoder
 - ⌨️ **[rAV1ator CLI](https://wiki.x266.mov/docs/utilities/rav1ator-cli)** - a CLI utility for working with a number of different video codecs
 - 🌐 **[The Radix Project](https://radixproject.org)** - Not for profit open source software hosting
 - 📖 **[The Codec Wiki](https://wiki.x266.mov/)** - Demystifying the realm of digital compression algorithms
