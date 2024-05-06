@@ -17,7 +17,7 @@ Some of my current projects, hobbies, & interests:
 - 🖼️ **JPEG-XL** - Advocating for the innovative JPEG-XL image format
 - 💻️ **Consumer electronics** - The field I'd like to enter some day
 
-🌱 Currently learning: `C` [`Zig`](https://ziglang.org/) `Java`
+🌱 Currently learning: `C` [`Zig`](https://ziglang.org/)
 
 *Ask me about multimedia compression, Linux, consumer hardware/software, or all of the above!*
 
