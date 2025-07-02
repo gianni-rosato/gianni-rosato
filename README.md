@@ -13,4 +13,4 @@ Some of my current work:
 
 *Ask me about multimedia compression, Linux, low-level programming, or all of the above!*
 
--> 📲 [Matrix](https://matrix.to/#/@computerbustr:matrix.org) | 🐦️ [Mastodon](https://disobey.net/@gianni) | 🧾 [LinkedIn](https://www.linkedin.com/in/gianni-r-52487124b/) | 📧 [Email](mailto:grosatowork@proton.me) | ☞ [AV1 for Dummies Discord](https://discord.gg/bbQD5MjDr3) <-
+-> 📲 [Matrix](https://matrix.to/#/@computerbustr:matrix.org) | 🐦️ [Mastodon](https://disobey.net/@gianni) | 🦋 [Bluesky](https://bsky.app/profile/giannirosato.com) | 🧾 [LinkedIn](https://www.linkedin.com/in/gianni-r-52487124b/) | 📧 [Email](mailto:grosatowork@proton.me) | ☞ [AV1 for Dummies Discord](https://discord.gg/bbQD5MjDr3) <-
