@@ -4,7 +4,7 @@ I am a software engineer who enjoys anything compression-related.
 
 Some of my current work:
 
-- 👁️ **Iris** - a better WebP encoder
+- 👁️ **[Iris](https://halide.cx/iris/index.html)** - a better WebP encoder
 - 🗜️ **[SVT-AV1](https://gitlab.com/AOMediaCodec/SVT-AV1/)** - contributing to the open-source production AV1 encoder
 - 📹 **[Aviator](https://wiki.x266.mov/docs/utilities/Aviator)** - A GUI for SVT-AV1
 - ⚡️ **[qoi-enc-zig](https://github.com/gianni-rosato/qoi-enc-zig)** - A spec-compliant QOI encoder written in Zig
