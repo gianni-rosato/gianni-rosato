@@ -6,8 +6,8 @@ Some of my current work:
 
 - 👁️ **[Iris](https://halide.cx/iris/index.html)** - a better WebP encoder
 - 🗜️ **[SVT-AV1](https://gitlab.com/AOMediaCodec/SVT-AV1/)** - contributing to the open-source production AV1 encoder
-- 📹 **[Aviator](https://wiki.x266.mov/docs/utilities/Aviator)** - a GUI for SVT-AV1
-- ⚡️ **[fssimu2](https://github.com/gianni-rosato/fssimu2)** - a fast SSIMULACRA2 derivative implementation in Zig
+- ⚡️ **[fmetrics](https://halide.cx/fmetrics)** - fast perceptual video/image fidelity metrics
+- 🖼️ **[oavif](https://github.com/gianni-rosato/oavif)** - efficient target quality image encoding
 - 📖 **[The Codec Wiki](https://wiki.x266.mov/)** - demystifying the realm of digital compression algorithms
 - 📈 **[My Blog](https://giannirosato.com/blog/)** - ongoing evaluation of image, video, & data compression
 
